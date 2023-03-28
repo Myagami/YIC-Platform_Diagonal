@@ -20,6 +20,5 @@ all: $(DIR)/building.YIC-railstop-platform-1_Diagonal(Angle).pak \
 	$(DIR)/building.YIC-railstop-platform-1_Diagonal(Side-Fence).pak \
 
 .PHONY: pre-release
-
 pre-release:
 	
